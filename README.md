@@ -1,16 +1,1 @@
-# Cyber-Security-Analyst
-Developed cyber security core fundamentals, functions of basic tools (Linux, SQL, &amp; Python), and overall analysis of operating systems, frameworks, and infrastructures. 
-
-strenghts:
-Analytical thinking
-Strategic
-Objective
-
-values:
-strong ethical standards
-diligent & persistent
-quick learner & adaptable 
-
-what interests me about the field of cybersecurity is the possibility of utilizing my strengths, continuous learning & challenges, and protecting people from cyber criminals.
-the audience is cybersecurity recruiters (what industry?)
-
+"I am a strategic and adaptable cybersecurity analyst with a strong passion for using my skills to protect individuals and organizations from potential cyber threats. I place a high value on upholding ethical standards to maintain a robust security posture, ensure the integrity of systems, and support the goals of the organization and its people."
