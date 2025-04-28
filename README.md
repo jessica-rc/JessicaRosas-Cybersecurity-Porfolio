@@ -1,1 +1,3 @@
+**Professional Statement:**
+
 My name is Jessica Rosas. I am a strategic and adaptable cybersecurity analyst with a deep passion for protecting individuals and organizations from cyber threats. With my strong analytical skills and focus on ethical standards, I’m dedicated to proactively identifying vulnerabilities, implementing strong security measures, and ensuring the integrity of systems. By prioritizing both security and ethical practices, I am committed to supporting the organization's goals of maintaining a strong security posture and protecting both its assets and people.
